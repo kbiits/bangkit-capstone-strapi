@@ -46,3 +46,12 @@ or if you want to run in development mode
 ```bash
 npm run develop
 ```
+
+## Architecture
+
+### Backend Infrastructure
+![Backend Infrastructure design](https://raw.githubusercontent.com/kbiits/bangkit-capstone-strapi/master/Backend.jpg "Backend Infrastructure design")
+
+
+### Database Design
+![Database design](https://raw.githubusercontent.com/kbiits/bangkit-capstone-strapi/master/bangkit_capstone%20-%20public.png "Database design")
